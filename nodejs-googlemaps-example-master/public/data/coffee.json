@@ -1,119 +1,31 @@
 [
 	{
-		"shopname": "NW 2nd and Davis",
+		"shopname": "Pioneer Courthouse Square",
 		"location":{
 			"type": "Point",
-			"coordinates": [45.5244814,-122.6771236]
+			"coordinates": [45.5189217,-122.6815365]
 		},
-		"details": "Great coffee, atmosphere, and staff.",
-		"website": "http://www.menageriecoffee.com/"
+		"details": "Super fancy"
 	},
-	{
-		"shopname": "SW 3rd and Yamhill",
+  {
+		"shopname": "Director Park",
 		"location":{
 			"type": "Point",
-			"coordinates": [45.5175704,-122.6780738]
-		},
-		"details": "Great for a coffee on the go.",
-		"website": "http://www.oldcitycoffee.com/"
+			"coordinates": [45.5186153,-122.681625]
+		}
 	},
-	{
-		"shopname": "SW 5th & Taylor ",
+  {
+		"shopname": "Multnomah County Library",
 		"location":{
 			"type": "Point",
-			"coordinates": [45.5177192,-122.680678]
-		},
-		"details": "Urban camper vibes.",
-		"website": "http://unitedbyblue.com/pages/flagship"
+			"coordinates": [45.519131,-122.6843203]
+		}
 	},
-	{
-		"shopname": "SW Vista & Broadway Dr.",
+  {
+		"shopname": "North Park Blocks",
 		"location":{
 			"type": "Point",
-			"coordinates": [45.5054958,-122.7059731]
-		},
-		"details": "Good coffee. Tons of electrical outlets.",
-		"website": "http://www.elixrcoffee.com/"
+			"coordinates": [45.5240524,-122.6781775]
+		}
 	},
-	{
-		"shopname": "NW 21st & Glisan",
-		"location":{
-			"type": "Point",
-			"coordinates": [45.526408,-122.6966917]
-		},
-		"details": "Tasty",
-		"website": "http://www.yelp.com/biz/shot-tower-coffee-philadelphia-2"
-	},
-	{
-		"shopname": "NW 18th & Couch",
-		"location":{
-			"type": "Point",
-			"coordinates": [45.5235251,-122.6914213]
-		},
-		"details": "Great place to get some work done.",
-		"website": "https://www.facebook.com/pages/Bennas-Cafe/316526051875056"
-	},
-	{
-		"shopname": "SW Broadway & Oak",
-		"location":{
-			"type": "Point",
-			"coordinates": [45.5220246,-122.6803785]
-		},
-		"details": "Hand poured coffee.",
-		"website": "http://www.ultimocoffee.com/"
-	},
-	{
-		"shopname": "SW 10th & Washington",
-		"location":{
-			"type": "Point",
-			"coordinates": [45.5213427,-122.6835577]
-		},
-		"details": "Iced coffee on draft.",
-		"website": "http://lacolombe.com/"
-	},
-	{
-		"shopname": "SW Morrison & 12th",
-		"location":{
-			"type": "Point",
-			"coordinates": [45.5205614,-122.6862204]
-		},
-		"details": "Iced coffee on draft.",
-		"website": "http://lacolombe.com/"
-	},
-	{
-		"shopname": "SW Broadway & Washington",
-		"location":{
-			"type": "Point",
-			"coordinates": [45.5206901,-122.6810995]
-		},
-		"details": "Iced coffee on draft.",
-		"website": "http://lacolombe.com/"
-	},
-	{
-		"shopname": "SW 1st & Oak",
-		"location":{
-			"type": "Point",
-			"coordinates": [45.5204246,-122.6744035]
-		},
-		"details": "Iced coffee on draft.",
-		"website": "http://lacolombe.com/"
-	},
-	{
-		"shopname": "SW Yamhill & 12th",
-		"location":{
-			"type": "Point",
-			"coordinates": [45.5198814,-122.6866977]
-		},
-		"details": "Iced coffee on draft.",
-		"website": "http://lacolombe.com/"
-	},
-	{
-		"shopname": "SW Morrison & 9th",
-		"location":{
-			"type": "Point",
-			"coordinates": [45.5197773,-122.6833207]
-		},
-		"details": "Iced coffee on draft.",
-		"website": "http://lacolombe.com/"
-	}
 ]
