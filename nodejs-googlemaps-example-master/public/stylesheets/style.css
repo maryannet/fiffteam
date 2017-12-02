@@ -2,16 +2,29 @@ html,body,#map_canvas{
 	height: 100%;
 	margin:0;
 	padding:0;
-	font-family: helvetica, 'helvetica neue', arial, sans-serif;
+	font-family: Courier;
+	color: #FFEF60;
+	background-color: black;
+
 }
 header {
 	padding: 10px 10px;
 }
 
 h1 {
-	font-size: 1.5em;
+	font-size: 3.5em;
+	border-bottom: 6px solid #AA1E64;
+
 }
 
 h2 {
 	font-size: 1em;
+}
+
+a {
+	color:	#AA1E64;
+}
+
+a:hover {
+	color: white;
 }
