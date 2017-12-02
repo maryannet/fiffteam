@@ -1,0 +1,31 @@
+[
+	{
+		"shopname": "Pioneer Courthouse Square",
+		"location":{
+			"type": "Point",
+			"coordinates": [45.5189217,-122.6815365]
+		},
+		"details": "Super fancy"
+	},
+  {
+		"shopname": "Director Park",
+		"location":{
+			"type": "Point",
+			"coordinates": [45.5186153,-122.681625]
+		}
+	},
+  {
+		"shopname": "Multnomah County Library",
+		"location":{
+			"type": "Point",
+			"coordinates": [45.519131,-122.6843203]
+		}
+	},
+  {
+		"shopname": "North Park Blocks",
+		"location":{
+			"type": "Point",
+			"coordinates": [45.5240524,-122.6781775]
+		}
+	},
+]
