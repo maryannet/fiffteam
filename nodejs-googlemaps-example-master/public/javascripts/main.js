@@ -11,7 +11,7 @@ $(document).ready(function() {
 
 //Initialize our Google Map
 function initialize() {
-    var center = new google.maps.LatLng(39.9543926,-75.1627432);
+    var center = new google.maps.LatLng(45.512794,-122.679565);
     var mapOptions = {
         zoom: 13,
         mapTypeId: google.maps.MapTypeId.ROADMAP,
