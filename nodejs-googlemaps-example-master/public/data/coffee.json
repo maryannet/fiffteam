@@ -5,27 +5,34 @@
 			"type": "Point",
 			"coordinates": [45.5189217,-122.6815365]
 		},
-		"details": "Super fancy"
+		"details": "",
+    "website": ""
 	},
   {
 		"shopname": "Director Park",
 		"location":{
 			"type": "Point",
 			"coordinates": [45.5186153,-122.681625]
-		}
+		},
+		"details": "",
+    "website": ""
 	},
   {
 		"shopname": "Multnomah County Library",
 		"location":{
 			"type": "Point",
 			"coordinates": [45.519131,-122.6843203]
-		}
+		},
+		"details": "",
+    "website": ""
 	},
   {
 		"shopname": "North Park Blocks",
 		"location":{
 			"type": "Point",
 			"coordinates": [45.5240524,-122.6781775]
-		}
-	},
+		},
+		"details": "",
+    "website": ""
+	}
 ]
