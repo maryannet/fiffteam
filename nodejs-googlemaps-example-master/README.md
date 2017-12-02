@@ -3,7 +3,7 @@
 
 This is a simple [Node.js](https://nodejs.org/en/) app that uses the [Google Maps API](https://developers.google.com/maps/) to create 2 map views, each centered over Downtown Portland, OR. The points on the map are created by parsing JSON documents.
 
-![screenshot1](https://michaelck.github.io/nodejs-googlemaps-example/screenshot1.png)
+![screenshot1](https://github.com/maryannet/fiffteam/blob/master/nodejs-googlemaps-example-master/screenshot1.jpg)
 
 ##Instructions for running the app
 
